@@ -1,0 +1,43 @@
+body {
+  background-color: lightgrey ;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  border: 2px solid lightseagreen;
+  height: 650px;
+  background-color: #fff;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background-color: lightseagreen;
+}
+
+.section {
+  margin-left: 20px;
+}
+
+.section button {
+  position: fixed;
+  top: 325px;
+  font-size: 17px;
+  background-color: salmon;
+  border: none;
+  padding: 8px;
+}
+
+.section #tombol {
+  margin-top: 50pxpx;
+  margin-left: 275px;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px;
+  background-color: salmon;
+  color: white;
+}
+
+
